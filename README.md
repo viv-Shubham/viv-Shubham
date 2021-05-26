@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viv-shubham&show_icons=true&locale=en&layout=compact" alt="viv-shubham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viv-shubham&show_icons=true&locale=en" alt="viv-shubham" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viv-shubham&" alt="viv-shubham" /></p>
